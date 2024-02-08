@@ -1,1 +1,26 @@
-THINK before you code...
+create mario kart player class
+    create default constructor
+
+    create constructor with player name character and speed
+
+    create method getName
+        return name
+
+    create method getSpeed
+         return speed
+
+    create void method called boost with parameter
+         speed+= parameter
+
+    create void method display info
+        print out the name character and speed
+
+
+mario kart game class
+    create 3 mario kart player objects(one with no parameters and 2 with parameters)
+
+    call the method display info which will print out all the info for each object
+
+    call boost method with a parameter of a int for each object
+
+    print out the players name using getname method and then their speed using the getSpees method

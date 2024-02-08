@@ -1,1 +1,7 @@
-Test cases go here. 
+parameters for the objects          boost       new speed
+
+none
+
+mr. john, toad, 1                   30          31
+
+wil, luigi, 83                      50          133
